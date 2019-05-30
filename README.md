@@ -2,6 +2,12 @@
 
 Websockets + Videos + Go!
 
+## Demo Video
+
+[![Video Sharing Demo App](https://img.youtube.com/vi/VNy1ZXPWk3U/0.jpg)](https://www.youtube.com/watch?v=VNy1ZXPWk3U)
+
+
+
 # Running
 
 First things first - you need to startup a redis datastore. We'll use docker so we can start the service with on command.
